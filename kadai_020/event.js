@@ -3,4 +3,3 @@ const text = document.getElementById('text');
 
 textBtn.addEventListener('click', () => {
     text.textContent = 'ボタンをクリックしました'
-});
